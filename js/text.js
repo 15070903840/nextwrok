@@ -1,0 +1,1 @@
+var mok = document.querySelector('.mok')
